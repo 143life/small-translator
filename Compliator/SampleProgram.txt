@@ -1,0 +1,2 @@
+﻿or (or index.i 0)  (> index.i 1) for = i 10
+ = i - i 1 = iter[+ 01 010] ( - ( + ^ 010 i) 1 10)
